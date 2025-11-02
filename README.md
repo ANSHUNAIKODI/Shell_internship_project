@@ -16,6 +16,20 @@ Develop a machine learning model that supports sustainable planning of electric 
 •	Optimize network planning to reduce the average travel distance for EV users, minimizing energy waste and emissions.
 •	Promote green mobility by identifying underserved or high-impact regions for sustainable infrastructure expansion.
 
-5.	🌱 Expected Outcome
+5. 📊 Dataset (Kaggle Source)
+Dataset name:https://www.kaggle.com/datasets/sahirmaharajj/electric-vehicle-charging-stations-2024?resource=download
+About Dataset
+An overview of public Electric Vehicle (EV) charging stations within Connecticut from US DOE map.
+Data obtained from Department of Energy and Environmental Protection
+It contains key details such as:
+1. Station name and address
+2. Geographic coordinates (latitude & longitude)
+3. Network and connector types
+4. Power level and access details
+The dataset is used to analyze spatial distribution, accessibility, and usage efficiency of EV charging infrastructure — forming the foundation for developing a machine learning model to predict and optimize sustainable EV station deployment.
+
+6.	🌱 Expected Outcome
 •	A data-driven sustainability map and ML model that help governments, city planners, or energy companies expand EV charging infrastructure responsibly, aligning with green skills in renewable transport planning and sustainable urban design.
+
+
 
